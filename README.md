@@ -1,4 +1,4 @@
-Ramp kit storm forecast
+Ramp kit storm forecast (working version!! please visit //github.com/ramp-kits/storm_forecast/ for the final RAMP)
 =======================
 
 
@@ -7,6 +7,7 @@ Ramp kit storm forecast
 _Authors: Sophie Giffard-Roisin, Alexandre Boucaud, Mo Yang, Balazs Kegl, Claire Monteleoni (AppStat-CDS)_
 
 The goal is to predict the hurrican evolution (24h forecast) using collected data from all past hurricanes (since 1979)
+!! working version!! please visit //github.com/ramp-kits/storm_forecast/ for the final RAMP
 
 ## Set up
 
@@ -15,7 +16,7 @@ The goal is to predict the hurrican evolution (24h forecast) using collected dat
   git clone https://github.com/ramp-kits/storm_forecast.git
   cd storm_forecast
   ```
-
+https://github.com/join
 2. install the dependancies
   - with [conda](https://conda.io/miniconda.html)
   ```
