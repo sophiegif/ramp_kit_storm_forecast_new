@@ -1,4 +1,5 @@
-Ramp kit storm forecast (working version!! please visit //github.com/ramp-kits/storm_forecast/ for the final RAMP)
+Ramp kit storm forecast 
+(working version!! please visit //github.com/ramp-kits/storm_forecast/ for the final RAMP)
 =======================
 
 
@@ -7,6 +8,7 @@ Ramp kit storm forecast (working version!! please visit //github.com/ramp-kits/s
 _Authors: Sophie Giffard-Roisin, Alexandre Boucaud, Mo Yang, Balazs Kegl, Claire Monteleoni (AppStat-CDS)_
 
 The goal is to predict the hurrican evolution (24h forecast) using collected data from all past hurricanes (since 1979)
+
 !! working version!! please visit //github.com/ramp-kits/storm_forecast/ for the final RAMP
 
 ## Set up
